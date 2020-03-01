@@ -1,2 +1,2 @@
 # sphinx-msiit
-Hello wold!
+Hello world!
