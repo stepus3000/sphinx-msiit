@@ -1,0 +1,6 @@
+:download:`{file} <../../code_sources/{student}/{file}>`
+
+.. literalinclude:: ../../code_sources/{student}/{files}
+  :language: python
+  :linenos:
+

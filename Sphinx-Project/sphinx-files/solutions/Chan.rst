@@ -21,5 +21,4 @@ Chan
 :download:`Untitled.cpp <../../code_sources/Chan/Untitled.cpp>`
 
 .. literalinclude:: ../../code_sources/Chan/Untitled.cpp
-  :language: C++
-  :linenos:
+  :language: cpp
